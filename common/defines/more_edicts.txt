@@ -1,0 +1,4 @@
+	NGameplay = {
+
+		EDICT_CAPACITY_BASE					= 3			# Max number of active edicts before penalties kick in
+	}
